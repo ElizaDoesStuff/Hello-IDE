@@ -1,0 +1,20 @@
+{
+  "name": "hello-ide",
+  "version": "1.0.0",
+  "description": "An IDE, right in your terminal.",
+  "homepage": "https://github.com/ElizaDoesStuff/Hello-IDE#readme",
+  "bugs": {
+    "url": "https://github.com/ElizaDoesStuff/Hello-IDE/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElizaDoesStuff/Hello-IDE.git"
+  },
+  "license": "MIT",
+  "author": "ElizaDoesStuff",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
