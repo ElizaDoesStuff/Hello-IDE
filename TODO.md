@@ -1,0 +1,10 @@
+## Features
+- Typing
+    - char
+    - tab
+    - newl
+- Deleting 
+    - char
+    - tab
+    - newl
+- Selecting
